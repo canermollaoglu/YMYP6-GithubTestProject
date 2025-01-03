@@ -29,6 +29,7 @@ namespace GithubTestProject
             MessageBox.Show("Ayný yere kod yazdýk.");
             MessageBox.Show("Test");
             MessageBox.Show("Test2");
+            MessageBox.Show("Test3");
         }
     }
 }
