@@ -25,6 +25,10 @@ namespace GithubTestProject
             };
 
             MessageBox.Show(urun.ProductName);
+
+            MessageBox.Show("Ayný yere kod yazdýk.");
+            MessageBox.Show("Test");
+            MessageBox.Show("Test2");
         }
     }
 }
