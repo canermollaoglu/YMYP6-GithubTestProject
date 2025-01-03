@@ -25,6 +25,11 @@ namespace GithubTestProject
             };
 
             MessageBox.Show(urun.ProductName);
+
+            if (urun.ProductName!=null)
+            {
+                MessageBox.Show("Test");
+            }
         }
     }
 }
