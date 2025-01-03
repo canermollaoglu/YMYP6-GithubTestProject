@@ -25,11 +25,6 @@ namespace GithubTestProject
             };
 
             MessageBox.Show(urun.ProductName);
-
-            if (urun.UnitPrice<=15000)
-            {
-                MessageBox.Show("Urun fiyatý 15000 TL'den küçüktür.");
-            }
         }
     }
 }
